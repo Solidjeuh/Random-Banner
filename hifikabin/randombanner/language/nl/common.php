@@ -43,7 +43,7 @@ $lang = array_merge($lang, array(
 
 	'RANDOMBANNER_URL'								=> 'Doel URL',
 	'RANDOMBANNER_TARGET'							=> 'Openen van url',
-	'RANDOMBANNER_NOTHING'							=> 'Uitgeschakkeld',
+	'RANDOMBANNER_NOTHING'							=> 'Uitgeschakeld',
 	'RANDOMBANNER_NEW'								=> 'Nieuw tabblad',
 	'RANDOMBANNER_SAME'								=> 'Huidige tabblad',
 
