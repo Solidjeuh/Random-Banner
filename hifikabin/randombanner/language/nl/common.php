@@ -42,6 +42,10 @@ $lang = array_merge($lang, array(
 	'RANDOMBANNER_SEARCH_REMOVE'					=> 'Nergens',
 
 	'RANDOMBANNER_URL'								=> 'Doel URL',
+	'RANDOMBANNER_TARGET'							=> 'Openen van url',
+	'RANDOMBANNER_NOTHING'							=> 'Uitgeschakkeld',
+	'RANDOMBANNER_NEW'								=> 'Nieuw tabblad',
+	'RANDOMBANNER_SAME'								=> 'Huidige tabblad',
 
 	'RANDOMBANNER_INSTRUCTIONS'						=> 'Willekeurige banner instructies',
 
@@ -50,10 +54,11 @@ $lang = array_merge($lang, array(
 	'RANDOMBANNER_BANNER'							=> 'Banner URL',
 	'RANDOMBANNER_BANNER_INFO'						=> 'Banners kunnen worden opgeslagen op het forum, of extern.<br> Voeg vervolgens de volledige URL van de banner toe in het veld Banner URL.<br>Als u het afbeeldingsveld leeg laat, worden die afbeelding en de koppeling verwijderd.',
 	'RANDOMBANNER_LINK'								=> 'Link URL',
-	'RANDOMBANNER_LINK_INFO'						=> 'Voer de VOLLEDIGE URL in van de pagina waarnaar u de banner wilt linken.<br>Als je dit veld leeg laat, zal het klikken op de banner leiden naar de forumindex.',
+	'RANDOMBANNER_LINK_INFO'						=> 'Voer de VOLLEDIGE URL in van de pagina waarnaar u de banner wilt linken.',
+	'RANDOMBANNER_TARGET'							=> 'Link Doel',
+	'RANDOMBANNER_TARGET_INFO'						=> 'U kunt kiezen hoe elke banner koppeling zich gedraagt wanneer erop wordt geklikt.',
 
 	'RANDOMBANNER_MORE_BANNERS'						=> 'Voeg een andere afbeelding toe',
 	
-	'RANDOMBANNER_REQUIRE_3.1.0'					=> 'Deze extensie heeft ten minste phpBB 3.1.0 nodig en werkt niet met phpBB 3.2.0',
 	'RANDOMBANNER_REQUIRE_3.2.0'					=> 'Deze extensie is voor phpBB 3.2.0 en hoger. Het werkt niet met phpBB 3.1.0',
 ));
